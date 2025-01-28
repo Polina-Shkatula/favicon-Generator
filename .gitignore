@@ -1,0 +1,7 @@
+# ignore all that not in the current foldergit add .gitignore
+/*
+
+# accept the files of current project
+!.gitignore
+!README.md
+!assets/

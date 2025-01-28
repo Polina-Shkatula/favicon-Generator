@@ -28,6 +28,27 @@ This application allows users to upload an image and customize various settings 
 
 The component DynamicGeneration is not used in the project but is intended to create and render elements based on dynamically changing parameters, input data or states.
 
+## Screenshots
+
+#### Start Page - Image Upload
+
+![Startpage](/src/assets/screenshots/screenshot1.png 'Project start')
+
+#### Image description
+
+![Description](/src/assets/screenshots/screenshot2.png 'Image description')
+
+#### Image Processing
+
+![Processing](/src/assets/screenshots/screenshot3.png 'Image Processing')
+
+#### Project List
+
+![ProjectList](/src/assets/screenshots/screenshot4.png 'Project List')
+
+#### Edit Settings for the selected icon
+
+![Setting](/src/assets/screenshots/screenshot5.png 'Edit Setting')
 
 ## Recommended IDE Setup
 
